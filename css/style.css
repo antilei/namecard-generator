@@ -1,0 +1,29 @@
+body {
+  background-image: url('https://picsum.photos/id/999/1900/1000?grayscale&blur=2');
+}
+
+body h2 {
+  color: #fff;  
+}
+
+.theme {
+  display: inline-block;
+}
+
+.blackboard {
+  background-color: rgba(0, 0, 0, 0.8);
+  padding: 20px;
+  border-radius: 5px;
+  color: #fff;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.whiteboard {
+  background-color: rgba(255, 255, 255, 0.7);
+  padding: 20px;
+  border-radius: 5px;
+  color: #111;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
